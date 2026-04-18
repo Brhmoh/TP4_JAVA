@@ -46,4 +46,4 @@ Application de gestion de stock organisée selon le design pattern **Modèle-Vue
 
 1. Clonage :
    ```bash
-   git clone https://github.com/[VOTRE_NOM_UTILISATEUR]/[NOM_DU_DEPOT].git
+   git clone https://github.com/[VOTRE_NOM_UTILISATEUR]/TP4_Java.git
