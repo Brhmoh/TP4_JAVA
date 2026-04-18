@@ -6,6 +6,9 @@ Thème :Interfaces Graphiques (Swing), Programmation Événementielle et Archite
 
 Informations
 - Étudiant : Brahimi Mohammed
+- Section : B
+- Groupe : 2
+- Matr: 232332397003
 - Enseignant : Dr. Adel Khelifati
 - Outil utilisé : Eclipse IDE / Java Swing
 
